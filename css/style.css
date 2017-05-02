@@ -1,0 +1,58 @@
+
+	header
+	{
+		
+		height:100px;
+		padding-left:0px; 
+	}
+	
+	footer
+	{
+		padding-left:20px;
+		padding-top:20px;
+		background-color:grey;
+		height:50px;
+		margin-bottom:20px;
+	}
+	#c1 
+	{
+	
+	width: 300px;
+
+	}
+
+	.menu
+	{
+		padding-top: 80px;
+		padding-left:200px;
+		
+	}
+
+	.menu li
+	{
+		display: inline;
+	}
+
+	a
+	{
+		text-decoration: none;
+	}
+    #rem
+    {
+		background-color: lightblue;
+    }
+	.div1
+	{
+		margin-top: 20px;
+	}
+	.like
+	{
+		margin-right: 10px;
+	}
+	#p1
+	{
+		background-color: #F5FAFA;
+	}
+
+	
+	
